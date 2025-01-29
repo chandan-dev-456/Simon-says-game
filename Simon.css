@@ -1,0 +1,54 @@
+.container{
+    width: 500px;
+    height: 500px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.green{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-radius: 25px;
+    border-color: black;
+    border: 10px solid black;
+
+}
+.red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 25px;
+    border-color: black;
+    border: 10px solid black;
+
+}
+.yellow{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 25px;
+    border-color: black;
+    border: 10px solid black;
+}
+.blue{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 25px;
+    border: 10px solid black;
+}
+.flash{
+    background-color: white;
+}
+.over{
+    background-color: rgb(159, 11, 11);
+}
